@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<!--<suite name="Default suite">-->
+        <!--<classes>-->
+            <!--<class name="LearningTestNG.TestNGAnnotation" />-->
+            <!--<class name="LearningTestNG.TestNGAnnotation_2" />-->
+        <!--</classes>-->
+<!--</suite>-->
+
+<suite name="Grouping test">
+    <test name="MyTestsSuite"> <!-- Default test -->
+        <groups>
+        <run>
+            <include name="performance" />
+            <exclude name="regression" />
+        </run>
+</groups>
+
+        <classes>
+            <class name="LearningTestNG.GroupingTests" />
+        </classes>
+    </test>
+</suite> <!-- Default suite -->
