@@ -2,7 +2,6 @@ package library;
 
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
-import org.openqa.selenium.firefox.FirefoxBinary;
 import org.testng.annotations.Test;
 import org.apache.log4j.Logger;
 
