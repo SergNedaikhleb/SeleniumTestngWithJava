@@ -20,7 +20,7 @@ jobs:
     - name: list current folder
       run: ls -la  
   
- after_testing:
+  after_testing:
       runs-on: [ubuntu-16.04]
       needs: [before_testing]
      
