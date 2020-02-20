@@ -12,8 +12,8 @@ public class BaseClass {
     @BeforeMethod
     public void beforemethod() throws IllegalAccessException{
 
-        WebDriver driver = new WebDriverFactory().create("Firefox");
-        setWebDriver(driver);
+     //  WebDriver driver = new WebDriverFactory().create("Firefox");
+      //  setWebDriver(driver);
 
 
         getWebDriver().manage().window().maximize();
