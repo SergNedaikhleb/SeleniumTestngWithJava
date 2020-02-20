@@ -13,8 +13,7 @@ public class LearningProperty {
     @Test
     public void testProperty() throws IOException {
         property = new Properties();
-
-        fs = new FileInputStream(System.getProperty("user.dir")+"\\config.properties");
+        
 
         property.load(fs);
 
