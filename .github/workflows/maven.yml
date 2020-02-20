@@ -15,17 +15,9 @@ jobs:
       uses: actions/setup-java@v1
       with:
         java-version: 1.8
-    - name: Build with Maven
-      run: mvn -B package --file pom.xml 
     - name: start tresting
       run: mvn clean test
-  
-  after_testing:
-      runs-on: [ubuntu-16.04]
-      needs: [before_testing]
-     
-      steps:
-      - name: Print Hello
-        run: echo "Hello!"
+    - name: Print Hello
+      run: echo "Hello!"
  
    
