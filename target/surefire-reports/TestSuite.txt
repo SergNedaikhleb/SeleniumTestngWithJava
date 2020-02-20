@@ -1,0 +1,21 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 20, Failures: 4, Errors: 0, Skipped: 8, Time elapsed: 0.604 s <<< FAILURE! - in TestSuite
+loginWithFacebook(LearningTestNG.Listeners.LoginTest)  Time elapsed: 0.007 s  <<< FAILURE!
+java.lang.AssertionError: expected [TestString1] but found [TestString]
+	at LearningTestNG.Listeners.LoginTest.loginWithFacebook(LoginTest.java:15)
+
+logout(LearningTestNG.ReportingTests)  Time elapsed: 0 s  <<< FAILURE!
+java.lang.AssertionError: expected [Test1] but found [Test]
+	at LearningTestNG.ReportingTests.logout(ReportingTests.java:12)
+
+beforemethod(ParallelExecution.TestWebsite)  Time elapsed: 0.001 s  <<< FAILURE!
+java.lang.NullPointerException
+
+test(SauceLabs.BasicSauceLabTest)  Time elapsed: 0.042 s  <<< FAILURE!
+java.net.MalformedURLException: For input string: "518f756cf-114f-40a7-88dc-7871e27"
+	at SauceLabs.BasicSauceLabTest.test(BasicSauceLabTest.java:22)
+Caused by: java.lang.NumberFormatException: For input string: "518f756cf-114f-40a7-88dc-7871e27"
+	at SauceLabs.BasicSauceLabTest.test(BasicSauceLabTest.java:22)
+

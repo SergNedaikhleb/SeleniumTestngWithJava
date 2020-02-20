@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="1" verbose="0" name="Failed suite [Surefire suite]">
+  <test thread-count="1" verbose="0" name="Surefire test(failed)">
+    <classes>
+      <class name="LearningTestNG.ReportingTests">
+        <methods>
+          <include name="logout"/>
+        </methods>
+      </class> <!-- LearningTestNG.ReportingTests -->
+      <class name="LearningTestNG.Listeners.LoginTest">
+        <methods>
+          <include name="loginWithFacebook"/>
+        </methods>
+      </class> <!-- LearningTestNG.Listeners.LoginTest -->
+      <class name="SauceLabs.BasicSauceLabTest">
+        <methods>
+          <include name="test"/>
+        </methods>
+      </class> <!-- SauceLabs.BasicSauceLabTest -->
+      <class name="ParallelExecution.TestWebsite">
+        <methods>
+          <include name="test_01"/>
+          <include name="aftermethod"/>
+          <include name="test_02"/>
+          <include name="beforemethod"/>
+          <include name="test_03"/>
+        </methods>
+      </class> <!-- ParallelExecution.TestWebsite -->
+    </classes>
+  </test> <!-- Surefire test(failed) -->
+</suite> <!-- Failed suite [Surefire suite] -->
