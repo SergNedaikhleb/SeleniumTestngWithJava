@@ -14,7 +14,6 @@ public class TestWebsite extends BaseClass {
         Thread.sleep(5000);
         getWebDriver().findElement(By.xpath("//*[@id='topnav']/div[1]/div[1]/a[3]")).click();
         Thread.sleep(5000);
-
     }
 
 

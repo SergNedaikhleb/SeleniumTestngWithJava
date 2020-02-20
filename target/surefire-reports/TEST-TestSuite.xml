@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="TestSuite" time="0.604" tests="20" errors="0" skipped="8" failures="4">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="TestSuite" time="0.846" tests="20" errors="0" skipped="8" failures="4">
   <properties>
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
     <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk1.8.0_212\jre\bin"/>
@@ -45,7 +45,7 @@
     <property name="java.vm.specification.version" value="1.8"/>
     <property name="sun.arch.data.model" value="64"/>
     <property name="java.home" value="C:\Program Files\Java\jdk1.8.0_212\jre"/>
-    <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher clean test"/>
+    <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher test clean"/>
     <property name="java.specification.vendor" value="Oracle Corporation"/>
     <property name="user.language" value="ru"/>
     <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
@@ -64,13 +64,13 @@
     <property name="sun.desktop" value="windows"/>
     <property name="sun.cpu.isalist" value="amd64"/>
   </properties>
-  <testcase name="feature1" classname="LearningTestNG.GroupingTests" time="0.002"/>
-  <testcase name="feature2" classname="LearningTestNG.GroupingTests" time="0"/>
-  <testcase name="feature3" classname="LearningTestNG.GroupingTests" time="0.001"/>
-  <testcase name="test1" classname="LearningTestNG.TestNGAnnotation" time="0"/>
+  <testcase name="feature1" classname="LearningTestNG.GroupingTests" time="0.003"/>
+  <testcase name="feature2" classname="LearningTestNG.GroupingTests" time="0.001"/>
+  <testcase name="feature3" classname="LearningTestNG.GroupingTests" time="0.003"/>
+  <testcase name="test1" classname="LearningTestNG.TestNGAnnotation" time="0.001"/>
   <testcase name="test2" classname="LearningTestNG.TestNGAnnotation" time="0.001"/>
-  <testcase name="loginWithEmail" classname="LearningTestNG.Listeners.LoginTest" time="0.002"/>
-  <testcase name="loginWithFacebook" classname="LearningTestNG.Listeners.LoginTest" time="0.007">
+  <testcase name="loginWithEmail" classname="LearningTestNG.Listeners.LoginTest" time="0.001"/>
+  <testcase name="loginWithFacebook" classname="LearningTestNG.Listeners.LoginTest" time="0.016">
     <failure message="expected [TestString1] but found [TestString]" type="java.lang.AssertionError">java.lang.AssertionError: expected [TestString1] but found [TestString]
 	at LearningTestNG.Listeners.LoginTest.loginWithFacebook(LoginTest.java:15)
 </failure>
@@ -78,13 +78,13 @@
 ]]></system-out>
   </testcase>
   <testcase name="test3" classname="LearningTestNG.TestNGAnnotation_2" time="0.001"/>
-  <testcase name="login" classname="LearningTestNG.ReportingTests" time="0.001"/>
+  <testcase name="login" classname="LearningTestNG.ReportingTests" time="0"/>
   <testcase name="logout" classname="LearningTestNG.ReportingTests" time="0">
     <failure message="expected [Test1] but found [Test]" type="java.lang.AssertionError">java.lang.AssertionError: expected [Test1] but found [Test]
 	at LearningTestNG.ReportingTests.logout(ReportingTests.java:12)
 </failure>
   </testcase>
-  <testcase name="beforemethod" classname="ParallelExecution.TestWebsite" time="0.001">
+  <testcase name="beforemethod" classname="ParallelExecution.TestWebsite" time="0.002">
     <failure type="java.lang.NullPointerException">java.lang.NullPointerException
 </failure>
   </testcase>
@@ -112,13 +112,13 @@
   <testcase name="test_03" classname="ParallelExecution.TestWebsite" time="0">
     <skipped/>
   </testcase>
-  <testcase name="test" classname="SauceLabs.BasicSauceLabTest" time="0.042">
+  <testcase name="test" classname="SauceLabs.BasicSauceLabTest" time="0.053">
     <failure message="For input string: &quot;518f756cf-114f-40a7-88dc-7871e27&quot;" type="java.net.MalformedURLException">java.net.MalformedURLException: For input string: "518f756cf-114f-40a7-88dc-7871e27"
 	at SauceLabs.BasicSauceLabTest.test(BasicSauceLabTest.java:22)
 Caused by: java.lang.NumberFormatException: For input string: "518f756cf-114f-40a7-88dc-7871e27"
 	at SauceLabs.BasicSauceLabTest.test(BasicSauceLabTest.java:22)
 </failure>
-    <system-err><![CDATA[фев 20, 2020 5:07:06 PM org.openqa.selenium.remote.DesiredCapabilities chrome
+    <system-err><![CDATA[фев 20, 2020 5:53:43 PM org.openqa.selenium.remote.DesiredCapabilities chrome
 INFO: Using `new ChromeOptions()` is preferred to `DesiredCapabilities.chrome()`
 ]]></system-err>
   </testcase>

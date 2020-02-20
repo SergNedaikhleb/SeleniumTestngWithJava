@@ -2,38 +2,28 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="78050816-4f1d-4bca-acd8-d79911838873" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/target/classes/Credent.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Credent.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/LearningTestNG/DatabaseTesting/SeleniumDatabaseTesting.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/LearningTestNG/DatabaseTesting/SeleniumDatabaseTesting.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/LearningTestNG/GroupingTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/LearningTestNG/GroupingTests.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/LearningTestNG/LearningDataParameters.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/LearningTestNG/LearningDataParameters.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/LearningTestNG/LearningTestngPriority.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/LearningTestNG/LearningTestngPriority.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/LearningTestNG/Listeners/Listener.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/LearningTestNG/Listeners/Listener.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/LearningTestNG/Listeners/LoginTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/LearningTestNG/Listeners/LoginTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/LearningTestNG/ReportingTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/LearningTestNG/ReportingTests.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/LearningTestNG/TestDataFile.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/LearningTestNG/TestDataFile.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/LearningTestNG/TestNGAnnotation.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/LearningTestNG/TestNGAnnotation.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/LearningTestNG/TestNGAnnotation_2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/LearningTestNG/TestNGAnnotation_2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ParallelExecution/BaseClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ParallelExecution/BaseClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ParallelExecution/TestWebsite.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ParallelExecution/TestWebsite.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/Surefire suite/Surefire test.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/Surefire suite/Surefire test.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/Surefire suite/Surefire test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/Surefire suite/Surefire test.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-TestSuite.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-TestSuite.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TestSuite.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TestSuite.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/emailable-report.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/emailable-report.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-LearningTestNG.GroupingTests.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-LearningTestNG.GroupingTests.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-LearningTestNG.Listeners.LoginTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-LearningTestNG.Listeners.LoginTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-LearningTestNG.ReportingTests.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-LearningTestNG.ReportingTests.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-LearningTestNG.TestNGAnnotation.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-LearningTestNG.TestNGAnnotation.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-LearningTestNG.TestNGAnnotation_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-LearningTestNG.TestNGAnnotation_2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-ParallelExecution.TestWebsite.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-ParallelExecution.TestWebsite.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-SauceLabs.BasicSauceLabTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-SauceLabs.BasicSauceLabTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/Surefire suite/methods-alphabetical.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/old/Surefire suite/methods-alphabetical.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/Surefire suite/methods.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/old/Surefire suite/methods.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/testng-results.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/testng-results.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/test-classes/ParallelExecution/BaseClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/ParallelExecution/BaseClass.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/test-classes/ParallelExecution/TestWebsite.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/ParallelExecution/TestWebsite.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/ParallelExecution/WebDriverFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/ParallelExecution/WebDriverFactory.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/SauceLabs/BasicSauceLabTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/SauceLabs/BasicSauceLabTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/SeleniumFeatures/CheckBox.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/SeleniumFeatures/CheckBox.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/SeleniumFeatures/DatePicket.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/SeleniumFeatures/DatePicket.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/SeleniumFeatures/DragAndDropFrame.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/SeleniumFeatures/DragAndDropFrame.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/SeleniumFeatures/DragFrame.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/SeleniumFeatures/DragFrame.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/SeleniumFeatures/DropDowns.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/SeleniumFeatures/DropDowns.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/SeleniumFeatures/DynamicXpath.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/SeleniumFeatures/DynamicXpath.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/SeleniumFeatures/HandleFrames.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/SeleniumFeatures/HandleFrames.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/SeleniumFeatures/HandlingSliders.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/SeleniumFeatures/HandlingSliders.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/SeleniumFeatures/JavaScriptWorking.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/SeleniumFeatures/JavaScriptWorking.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/SeleniumFeatures/Login.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/SeleniumFeatures/Login.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/SeleniumFeatures/MyWait.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/SeleniumFeatures/MyWait.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/SeleniumFeatures/RadioButton.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/SeleniumFeatures/RadioButton.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/SeleniumFeatures/ResizeElement.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/SeleniumFeatures/ResizeElement.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/SeleniumFeatures/UploaderTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/SeleniumFeatures/UploaderTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/library/ExcellReader.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/library/ExcellReader.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/library/LearningProperty.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/library/LearningProperty.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/library/TestingLog4j.class" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -64,14 +54,14 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="gitignore" value="14" />
-          <entry key="java" value="8768" />
+          <entry key="java" value="8799" />
           <entry key="properties" value="125" />
           <entry key="xml" value="714" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="8768" />
+          <entry key="JAVA" value="8799" />
           <entry key="PLAIN_TEXT" value="14" />
           <entry key="Properties" value="125" />
           <entry key="XML" value="714" />
@@ -80,61 +70,25 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="gitignore" value="3" />
-          <entry key="iml" value="3" />
-          <entry key="java" value="136" />
+          <entry key="iml" value="4" />
+          <entry key="java" value="139" />
           <entry key="properties" value="7" />
-          <entry key="xml" value="18" />
+          <entry key="xml" value="19" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="IDEA_MODULE" value="3" />
-          <entry key="JAVA" value="136" />
+          <entry key="IDEA_MODULE" value="4" />
+          <entry key="JAVA" value="139" />
           <entry key="PLAIN_TEXT" value="3" />
           <entry key="Properties" value="7" />
-          <entry key="XML" value="18" />
+          <entry key="XML" value="19" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="88">
-              <caret line="36" column="47" lean-forward="true" selection-start-line="36" selection-start-column="47" selection-end-line="36" selection-end-column="47" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/LearningTestNG/GroupingTests.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/LearningTestNG/LearningDataParameters.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/LearningTestNG/LearningTestngPriority.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/LearningTestNG/ReportingTests.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -162,7 +116,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/LearningTestNG/TestNGAnnotation_2.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="433">
@@ -172,21 +126,56 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/config.properties">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SeleniumTestngWithJava.iml">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="1" selection-start-column="1" selection-end-column="1" />
+            <state relative-caret-position="17">
+              <caret line="1" column="41" selection-start-line="1" selection-start-column="41" selection-end-line="1" selection-end-column="41" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
+        <entry file="file://$PROJECT_DIR$/src/test/java/ParallelExecution/BaseClass.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" selection-start-line="1" selection-end-line="1" />
+            <state relative-caret-position="221">
+              <caret line="13" column="51" selection-start-line="13" selection-start-column="51" selection-end-line="13" selection-end-column="51" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#614#615#0" expanded="true" />
+                <element signature="e#644#645#0" expanded="true" />
+                <element signature="e#683#684#0" expanded="true" />
+                <element signature="e#714#715#0" expanded="true" />
+              </folding>
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/SauceLabs/BasicSauceLabTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="13" column="14" selection-start-line="13" selection-start-column="14" selection-end-line="13" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/ParallelExecution/TestWebsite.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="11" column="27" lean-forward="true" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -244,16 +233,16 @@
         <option value="$PROJECT_DIR$/src/test/java/library/TestingLog4j.java" />
         <option value="$PROJECT_DIR$/src/test/java/SauceLabs/BasicSauceLabTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/ParallelExecution/parallelexecution.xml" />
-        <option value="$PROJECT_DIR$/src/test/java/ParallelExecution/TestWebsite.java" />
         <option value="$PROJECT_DIR$/src/test/java/LearningTestNG/String_Types_Variable.java" />
         <option value="$PROJECT_DIR$/src/test/java/SeleniumFeatures/CheckBox.java" />
         <option value="$PROJECT_DIR$/log4j.properties" />
         <option value="$PROJECT_DIR$/config.properties" />
         <option value="$PROJECT_DIR$/src/test/java/library/LearningProperty.java" />
         <option value="$PROJECT_DIR$/src/test/java/ParallelExecution/WebDriverFactory.java" />
-        <option value="$PROJECT_DIR$/src/test/java/ParallelExecution/BaseClass.java" />
-        <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/src/test/java/ParallelExecution/BaseClass.java" />
+        <option value="$PROJECT_DIR$/src/test/java/ParallelExecution/TestWebsite.java" />
       </list>
     </option>
   </component>
@@ -264,7 +253,7 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds">
     <option name="x" value="274" />
     <option name="y" value="26" />
     <option name="width" value="1316" />
@@ -286,36 +275,18 @@
             <path>
               <item name="SeleniumTestngWithJava" type="b2602c69:ProjectViewProjectNode" />
               <item name="SeleniumTestngWithJava" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name=".github" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SeleniumTestngWithJava" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SeleniumTestngWithJava" type="462c0819:PsiDirectoryNode" />
+              <item name=".github" type="462c0819:PsiDirectoryNode" />
+              <item name="workflows" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="SeleniumTestngWithJava" type="b2602c69:ProjectViewProjectNode" />
               <item name="SeleniumTestngWithJava" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SeleniumTestngWithJava" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SeleniumTestngWithJava" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SeleniumTestngWithJava" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SeleniumTestngWithJava" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="LearningTestNG" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SeleniumTestngWithJava" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SeleniumTestngWithJava" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="library" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -326,7 +297,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1582212719098" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1582214501500" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
@@ -350,24 +321,17 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.C:/Users/nedajhleb/IdeaProjects/SeleniumTestngWithJava/src/test/java/ParallelExecution/parallelexecution.xml">
-    <configuration name="String_Types_Variable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LearningTestNG.String_Types_Variable" />
+  <component name="RunManager" selected="TestNG.TestWebsite.test_01">
+    <configuration name="BasicSauceLabTest" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <module name="SeleniumTestngWithJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="LearningTestNG.*" />
+          <option name="PATTERN" value="SauceLabs.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="C:/Users/nedajhleb/IdeaProjects/SeleniumTestngWithJava/src/test/java/LearningTestNG/Listeners/listenertest.xml" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="SeleniumTestngWithJava" />
-      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/java/LearningTestNG/Listeners/listenertest.xml" />
-      <option name="TEST_OBJECT" value="SUITE" />
+      <option name="PACKAGE_NAME" value="SauceLabs" />
+      <option name="MAIN_CLASS_NAME" value="SauceLabs.BasicSauceLabTest" />
       <properties />
       <listeners />
       <method v="2">
@@ -384,26 +348,52 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C:/Users/nedajhleb/IdeaProjects/SeleniumTestngWithJava/src/test/java/testng.xml" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="TestWebsite" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <module name="SeleniumTestngWithJava" />
-      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/java/testng.xml" />
-      <option name="TEST_OBJECT" value="SUITE" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ParallelExecution.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ParallelExecution" />
+      <option name="MAIN_CLASS_NAME" value="ParallelExecution.TestWebsite" />
       <properties />
       <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LearningProperty" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="TestWebsite.test_01" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <module name="SeleniumTestngWithJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="library.*" />
+          <option name="PATTERN" value="ParallelExecution.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="library" />
-      <option name="MAIN_CLASS_NAME" value="library.LearningProperty" />
+      <option name="PACKAGE_NAME" value="ParallelExecution" />
+      <option name="MAIN_CLASS_NAME" value="ParallelExecution.TestWebsite" />
+      <option name="METHOD_NAME" value="test_01" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestWebsite.test_02" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumTestngWithJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ParallelExecution.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ParallelExecution" />
+      <option name="MAIN_CLASS_NAME" value="ParallelExecution.TestWebsite" />
+      <option name="METHOD_NAME" value="test_02" />
+      <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
       <method v="2">
@@ -411,19 +401,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="TestNG.LearningProperty" />
-      <item itemvalue="Application.String_Types_Variable" />
       <item itemvalue="TestNG.C:/Users/nedajhleb/IdeaProjects/SeleniumTestngWithJava/src/test/java/ParallelExecution/parallelexecution.xml" />
-      <item itemvalue="TestNG.C:/Users/nedajhleb/IdeaProjects/SeleniumTestngWithJava/src/test/java/testng.xml" />
-      <item itemvalue="TestNG.C:/Users/nedajhleb/IdeaProjects/SeleniumTestngWithJava/src/test/java/LearningTestNG/Listeners/listenertest.xml" />
+      <item itemvalue="TestNG.TestWebsite.test_02" />
+      <item itemvalue="TestNG.TestWebsite" />
+      <item itemvalue="TestNG.BasicSauceLabTest" />
+      <item itemvalue="TestNG.TestWebsite.test_01" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.TestWebsite.test_01" />
+        <item itemvalue="TestNG.BasicSauceLabTest" />
+        <item itemvalue="TestNG.TestWebsite" />
+        <item itemvalue="TestNG.TestWebsite.test_02" />
         <item itemvalue="TestNG.C:/Users/nedajhleb/IdeaProjects/SeleniumTestngWithJava/src/test/java/ParallelExecution/parallelexecution.xml" />
-        <item itemvalue="TestNG.C:/Users/nedajhleb/IdeaProjects/SeleniumTestngWithJava/src/test/java/LearningTestNG/Listeners/listenertest.xml" />
-        <item itemvalue="TestNG.C:/Users/nedajhleb/IdeaProjects/SeleniumTestngWithJava/src/test/java/testng.xml" />
-        <item itemvalue="TestNG.LearningProperty" />
-        <item itemvalue="Application.String_Types_Variable" />
       </list>
     </recent_temporary>
   </component>
@@ -473,7 +463,7 @@
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="274" y="26" width="1316" height="915" extended-state="1" />
+    <frame x="274" y="26" width="1316" height="915" extended-state="0" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.4371019" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -484,15 +474,15 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32992327" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.35549873" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3546735" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3991881" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.37003842" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.2893726" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.3271028" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32522407" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -558,13 +548,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SeleniumTestngWithJava.iml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="41" selection-start-line="1" selection-start-column="41" selection-end-line="1" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/library/TestingLog4j.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
@@ -593,13 +576,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/ParallelExecution/TestWebsite.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="498">
-          <caret line="38" column="5" selection-start-line="38" selection-start-column="5" selection-end-line="38" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/ParallelExecution/parallelexecution.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
@@ -611,13 +587,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="407">
           <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/SauceLabs/BasicSauceLabTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -712,24 +681,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/ParallelExecution/BaseClass.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="15" column="8" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/config.properties">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="1" selection-start-column="1" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
         </state>
       </provider>
     </entry>
@@ -786,6 +741,47 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="433">
           <caret line="28" column="54" selection-start-line="28" selection-start-column="54" selection-end-line="28" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SeleniumTestngWithJava.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="41" selection-start-line="1" selection-start-column="41" selection-end-line="1" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/ParallelExecution/BaseClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="51" selection-start-line="13" selection-start-column="51" selection-end-line="13" selection-end-column="51" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#614#615#0" expanded="true" />
+            <element signature="e#644#645#0" expanded="true" />
+            <element signature="e#683#684#0" expanded="true" />
+            <element signature="e#714#715#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/SauceLabs/BasicSauceLabTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="13" column="14" selection-start-line="13" selection-start-column="14" selection-end-line="13" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/ParallelExecution/TestWebsite.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="11" column="27" lean-forward="true" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
         </state>
       </provider>
     </entry>
